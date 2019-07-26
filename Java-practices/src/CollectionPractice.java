@@ -47,7 +47,7 @@ public class CollectionPractice {
 	void performConditionally(List<Person> list, Predicate<Person> predicate, Consumer<Person> consumer) {
 		for (Person person : list) {
 			if (predicate.test(person)) {
-				//System.out.println(person);
+				System.out.println(person);
 				consumer.accept(person);
 			}
 		}
