@@ -56,6 +56,5 @@ public class CollectionPractice {
 }
 
 /*interface Condition {
-
 	boolean test(Person p);
 }*/
