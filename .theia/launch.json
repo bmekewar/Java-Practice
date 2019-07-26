@@ -12,6 +12,16 @@
           "stopOnEntry": false,
           "mainClass": "",
           "args": ""
+      },
+      {
+          "type": "java",
+          "name": "Debug (Launch)",
+          "request": "launch",
+          "cwd": "${workspaceFolder}",
+          "console": "internalConsole",
+          "stopOnEntry": false,
+          "mainClass": "${workspaceFolder}/BasicSecurityApplication.java",
+          "args": ""
       }
   ]
 }
