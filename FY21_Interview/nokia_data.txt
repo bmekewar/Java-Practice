@@ -1,0 +1,13 @@
+4 3
+Tom 1 1
+Harry 2 3 
+Jerry 3 2 
+Tom 0 0 
+Harry 2 2 
+Jerry 3 2 
+Jerry 2 3 
+Tom 2 2 
+Harry 3 1 
+Harry 5 6 
+Jerry 5 1 
+Tom 10 11 
